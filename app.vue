@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    Industry Art & Design
   </div>
 </template>
