@@ -1,7 +1,7 @@
 <template>
   <div class="mainLayout">
-  asdf
     <section class="mainContainer">
+    asdf
      <slot />
     </section>
   </div>
